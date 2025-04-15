@@ -1,0 +1,19 @@
+
+        body {
+            padding-top: 56px; /* Ajustement pour la navbar fixe */
+            font-family: 'Arial', sans-serif; /* Police simple */
+        }
+        .carousel-item img {
+            height: 400px; /* Hauteur fixe pour les images du carrousel */
+            object-fit: cover; /* Assure que l'image couvre la zone sans être déformée */
+        }
+        .section-padding {
+            padding: 60px 0;
+        }
+        .navbar-brand img {
+            height: 20px; /* Ajuster la taille du logo si nécessaire */
+        }
+        #contact-alert {
+            display: none; /* Cache l'alerte par défaut */
+        }
+    
